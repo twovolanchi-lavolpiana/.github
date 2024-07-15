@@ -5,7 +5,7 @@
 - 축구 및 축구 전술에 어릴 때부터 관심이 있었습니다. 사이드 프로젝트로 축구 전술을 시뮬레이션 해볼 수 있는 사이트를 만들어보고 싶다는 생각을 하였습니다.
 
 # 기술 스택
-- FrontEnd: React 18 (TS)
+- FrontEnd: TS / React
 - BackEnd: Kotlin / Spring
 
 # 진행 단계
