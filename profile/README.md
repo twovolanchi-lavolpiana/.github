@@ -14,4 +14,5 @@
 
 # 사진
 
-![image](https://github.com/user-attachments/assets/6992e0a8-5c75-4a8f-9920-e5fd6b2380e9)
+![image](https://github.com/user-attachments/assets/c16d9fee-f7b5-4e32-9e5e-746c58d9c3e0)
+
