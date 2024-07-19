@@ -9,15 +9,14 @@
 - FrontEnd: TS / React
 - BackEnd: Kotlin / Spring
 
-# 진행 단계
-- FE / BE 개발 진행 중입니다.
+# 사이트
+https://www.lavolpiana.com
 
 # 사진
 
 ![image](https://github.com/user-attachments/assets/8939aed2-cd94-4ff3-b542-f15c263e89b2)
 
 
-# 시연
-
-https://github.com/user-attachments/assets/16e7e730-2129-4799-a614-e36f13b0f440
+# 가이드
+https://www.lavolpiana.com/guide
 
