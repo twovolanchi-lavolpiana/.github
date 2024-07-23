@@ -14,7 +14,7 @@ https://www.lavolpiana.com
 
 # 사진
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8060c352-e569-42ac-ab44-226a363ae1eb)
 
 
 # 가이드
